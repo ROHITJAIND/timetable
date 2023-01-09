@@ -23,12 +23,12 @@ Execute the program
 	</head>
 <BODY>
 	<IMG src="./logo1.jpg"height="150" width="1040" ALIGN="center" border="1">
-</BODY>
 
 
 
 
-    <TABLE BORDER="3" width="6" bgcolor="white" cellspacing="6" cellpadding="10"> 
+
+    <TABLE BORDER="3" width="6" bgcolor="white" cellspacing="6" cellpadding="10" style="border-collapse: collapse;"> 
     <TR> 
         <TH colspan="6" align="center" bgcolor="lightblue">TimeTable</TH>
     </TR>   
@@ -41,7 +41,7 @@ Execute the program
         <TD bgcolor="lightpink">DAY & TIMINGS</TD> 
         <TD bgcolor="lightpink" align="center" >8.00-10.00</TD>
         <TD bgcolor="lightpink"align="center" >10.00-12.00</TD>
-        <TD bgcolor="lightpink"align="center" >12.00-1.00</TD>
+        <TD style="padding:5px;"bgcolor="lightpink"align="center" >12.00-1.00</TD>
         <TD bgcolor="lightpink"align="center" >1.00-3.00</TD>
         <TD bgcolor="lightpink"align="center" >3.00-5.00</TD>
         
@@ -50,7 +50,7 @@ Execute the program
     <TR>
         <TD bgcolor="lightgreen">MONDAY</TD> 
         <TD>FUNDMENTAL OF WEB APPLICATION(19AI414) Karthi Govindharaju</TD>
-        <TD>CODING PRACTICE (CPMO3) Jeevitha Subramani</TD>
+        <TD>CODING PRACTICE (CPMO3)<br>Jeevitha Subramani</TD>
         <TD>MENTOR MEET   (ECA-M-AIDS)   Jaba Jasphin E.T</TD>
         <TD>FUNDAMENTALS OF C PROGRAMMING(19AI304) Magitha Nirmala Tennyson</TD>
         <TD>STATISTICS AND NUMERICALS METHODS(19MA211) Gayathri Lakshmi M </TD>
@@ -102,11 +102,21 @@ Execute the program
 
     
     </TABLE>
+<br>
+<br>
+1.FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT<br>
+2.FUNDAMENTALS OF C PROGRAMMING<br>
+3.STATISTICS AMD NUMERICAL METHODS<br>
+4.PHYSICS FOR QUANTUM COMPUTING<br>
+5.DIGITAL ELECTRONICS<br>
+6.COMMUNICATIVE ENGLISH<br>
+
+</BODY>
 </html>
 
 ```  
 # OUPUT:
-![Screenshot_20230109_052339](https://user-images.githubusercontent.com/118707073/211302297-f1797dd1-d6fb-4789-90f9-377487783ab9.png)
+
 
 
 
