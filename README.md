@@ -119,10 +119,13 @@ Execute the program.
 </html>
 ```  
 # OUPUT:
-![OUTPUT](http://rohitjaind.student.saveetha.in:8000/static/images/output.png?raw=true)
+![output](https://user-images.githubusercontent.com/118707073/211346333-e6b9d97a-68e8-414f-befa-860756b95480.png)
 
-# HTML VALIDATOR
-![HTML VALIDATOR](http://rohitjaind.student.saveetha.in:8000/static/images/validator.png?raw=true)
+
+# HTML VALIDATOR:
+![validator](https://user-images.githubusercontent.com/118707073/211346402-129ee4b7-e15e-419d-b78b-250e0e5eee50.png)
+
+
 
 # RESULT:
 The Expected Output is displayed in the Web Page.
